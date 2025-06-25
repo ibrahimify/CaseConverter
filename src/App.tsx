@@ -310,7 +310,7 @@ function App() {
                 <span className="text-sm">LinkedIn</span>
               </a>
               <a
-                href="https://github.com/ibrahmify"
+                href="https://github.com/ibrahimify"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-300 hover:text-purple-400 transition-colors"
